@@ -1,3 +1,7 @@
+#Print all prime numbers between 1-200
+
+
+#Function to check whether a given number is prime or not
 def isPrime(n):
     for i in range(2,n//2+1):
         if n%i==0:
