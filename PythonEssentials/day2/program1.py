@@ -8,11 +8,11 @@ print("After adding one element:",mylist)
 
 #Sorting myList
 mylist.sort()
-print("Sorted:", mylist)
+print("Sorted List:", mylist)
 
 #Reversing myList
 mylist.reverse()
-print("Reverse:",mylist)
+print("Reversed List:",mylist)
 
 #Adding a list to myList
 mylist.extend([25,1,27])
